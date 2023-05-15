@@ -4,7 +4,7 @@
 
 - 🌱&ensp;*I’m currently learning Java*
 
-- 💻&ensp;*All of my projects are available at [simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/)*
+- 💻&ensp;*Most of my projects are available at [simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/)*
 
 - ⌨&ensp;*Interested in peripherals, recently obsessed with [keyboards](https://www.zfrontier.com)*
 
