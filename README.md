@@ -10,7 +10,7 @@
 
 - 🏍&ensp;*Want to own a motorcycle [GSX250R](https://www.haojue.com/GSX250R/)*
 
-- 🔭&ensp;*A website to share interesting things with bros (under construction) [fbkstudio.github.io](https://fbkstudio.github.io/)* 
+- 🔭&ensp;*A website [fbkstudio](https://fbkstudio.github.io/) to share interesting things with bros (under construction)* 
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
