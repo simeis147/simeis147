@@ -10,7 +10,7 @@
 
 - 🏍&ensp;*Want to own a motorcycle [GSX250R](https://www.haojue.com/GSX250R/)*
 
-- 🔭&ensp;*Childhood dream was to be an astronomer*
+- 🔭&ensp;*A web to share interesting things with bros (under construction)*
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
