@@ -33,7 +33,7 @@
 ### Waka stats
 
 [![wakatime](https://wakatime.com/badge/user/fa238767-d1b2-496a-b6a7-115d077fa4e0.svg)](https://wakatime.com/@fa238767-d1b2-496a-b6a7-115d077fa4e0)
-![](https://komarev.com/ghpvc/?username=simeis147)
+
 <!-- ![ ](https://visitor-badge.glitch.me/badge?page_id=simeis147.simeis147) -->
 
 <details>
@@ -106,6 +106,8 @@ TypeScript               1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 </details>
 
 ### Visitor Count
+
+![ ](https://komarev.com/ghpvc/?username=simeis147)
 
 <div align="center">
 
