@@ -32,8 +32,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/fa238767-d1b2-496a-b6a7-115d077fa4e0.svg)](https://wakatime.com/@fa238767-d1b2-496a-b6a7-115d077fa4e0)
 ![ ](https://komarev.com/ghpvc/?username=simeis147)
-<!-- <img src="http://views.whatilearened.today/views/github/simeis/views.svg"/> -->
-<!-- ![ ](https://visitor-badge.glitch.me/badge?page_id=simeis147.simeis147) -->
 
 <details>
 <summary>📑 More</summary>
