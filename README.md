@@ -112,7 +112,6 @@ TypeScript               1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 
 
 <!--
-<img align="right" src="https://user-images.githubusercontent.com/89039068/205987044-73c795d2-73fc-403d-902c-b58acf0defaa.png" width="160">
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
