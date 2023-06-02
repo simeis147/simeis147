@@ -1,4 +1,4 @@
-### About me  
+### About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="25"/> 
 
 <img align="right" src="https://pic.peo.pw/a/2023/05/10/645b8b191e513.jpg" height="205">
 
@@ -112,8 +112,6 @@ TypeScript               1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 
 
 <!--
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 ### Activity Graph
 
