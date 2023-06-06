@@ -21,8 +21,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=simeis147&theme=transparent&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="420" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simeis147&theme=transparent&hide_border=true" alt="Streak Stats" width="420" />
-
-<!-- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeis147&layout=compact&langs_count=10&hide_border=true&theme=transparent" width="420" />](https://github.com/anuraghazra/github-readme-stats) -->
   
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -31,6 +29,8 @@
 <details>
 <summary>📑 More</summary>
 
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeis147&layout=compact&langs_count=10&hide_border=true&theme=transparent" width="420" />](https://github.com/anuraghazra/github-readme-stats)
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simeis147&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </details>
