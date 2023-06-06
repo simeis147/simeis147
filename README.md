@@ -28,6 +28,14 @@
   
 </div>
 
+<details>
+<summary>📑 More</summary>
+</br>
+**Activity Graph**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=simeis147&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+
 ### Waka stats
 
 [![wakatime](https://wakatime.com/badge/user/fa238767-d1b2-496a-b6a7-115d077fa4e0.svg)](https://wakatime.com/@fa238767-d1b2-496a-b6a7-115d077fa4e0)
@@ -114,9 +122,5 @@ TypeScript               1 repo              ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 <!--
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="25"/> 
-
-### Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=simeis147&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -->
