@@ -116,10 +116,3 @@ TypeScript               1 repo              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 [![:Augenestern-creator](https://count.getloli.com/get/@:simeis147?theme=moebooru)](https://github.com/journey-ad/Moe-Counter)
 
 </div>
-
-
-<!--
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="25"/> 
-
--->
