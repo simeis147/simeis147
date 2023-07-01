@@ -23,7 +23,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=simeis147&theme=transparent&hide_border=true" alt="Streak Stats" width="420" />
  
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
-  
+
 </div>
 
 <details>
