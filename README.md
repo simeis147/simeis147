@@ -8,9 +8,9 @@
 
 - ⌨&ensp;*Interested in peripherals, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)*
 
-- 🏍&ensp;*Want to own a motorcycle [GSX250R](https://www.haojue.com/GSX250R/)*
-
 - 🔭&ensp;*A website [FBKstudio](https://fbkstudio.github.io/) to share interesting things with bros* 
+
+- 🏍&ensp;*Want to own a motorcycle [GSX250R](https://www.haojue.com/GSX250R/)*
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
