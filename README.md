@@ -26,6 +26,7 @@
 
 <details>
 <summary>📑 More</summary>
+</br>
 
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
 
