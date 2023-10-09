@@ -28,6 +28,8 @@
 <summary>📑 More</summary>
 </br>
 
+![ ](https://komarev.com/ghpvc/?username=simeis147)
+
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeis147&layout=compact&langs_count=10&hide_border=true&theme=transparent"/>](https://github.com/anuraghazra/github-readme-stats) -->
@@ -39,7 +41,6 @@
 ### Waka stats
 
 [![wakatime](https://wakatime.com/badge/user/fa238767-d1b2-496a-b6a7-115d077fa4e0.svg)](https://wakatime.com/@fa238767-d1b2-496a-b6a7-115d077fa4e0)
-![ ](https://komarev.com/ghpvc/?username=simeis147)
 
 <details>
 <summary>📑 More</summary>
