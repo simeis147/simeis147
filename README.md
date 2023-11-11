@@ -28,7 +28,7 @@
 <summary>📑 More</summary>
 </br> 
 
-[<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy) 
+<!--  [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&title=Commits,Stars,Followers,Issues,PullRequest,Repositories" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeis147&layout=compact&langs_count=10&hide_border=true&theme=transparent"/>](https://github.com/anuraghazra/github-readme-stats)
   
