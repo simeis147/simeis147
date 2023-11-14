@@ -24,4 +24,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_TIMEZONE: "True"
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 3
