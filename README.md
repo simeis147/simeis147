@@ -6,7 +6,7 @@
 
 - 💻&ensp;*Most of my projects are available at [simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/)*
 
-- ⌨&ensp;*Interested in peripherals, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)* and apple product
+- ⌨&ensp;*Interested in peripherals, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)* and [apple product](https://www.apple.com.cn/)
 
 - 🔭&ensp;*A website [FBKstudio](https://fbkstudio.github.io/) to share interesting things with bros* 
 
