@@ -6,11 +6,11 @@
 
 - 💻&ensp;*Tech blog： [simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：under construction*
 
-- ⌨&ensp;*Interested in electronic products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)* and charger plug
+- ⌨&ensp;*Interested in electronic products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)* and Apple
 
 - 🔭&ensp;*A website [FBKstudio](https://fbkstudio.github.io/) to share interesting things with bros* 
 
-- 🪂&ensp;*One of the goals for 2024 is half marathon, skiing, horseback riding, swimming, and skydiving*
+- 🪂&ensp;*The goals for 2024 is half marathon, skiing, and parachuting*
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
