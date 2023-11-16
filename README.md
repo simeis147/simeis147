@@ -4,7 +4,7 @@
 
 - 🌱&ensp;*I’m currently learning Java, MySQL*
 
-- 💻&ensp;*Tech blog： [simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：under construction*
+- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io) / [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：under construction*
 
 - ⌨&ensp;*Interested in electronic products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)* and Apple
 
