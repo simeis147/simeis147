@@ -10,7 +10,7 @@
 
 - 🔭&ensp;*A website [FBKstudio](https://fbkstudio.github.io/) to share interesting things with bros* 
 
-- 🪂&ensp;*The goals for 2024 is half marathon, skiing, and parachuting*
+- 🌊&ensp;*The goals for 2024 is half marathon, skiing, and parachuting*
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
