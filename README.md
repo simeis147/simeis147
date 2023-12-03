@@ -14,7 +14,7 @@
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
-### Github Summary
+### Github summary
 
 <div align="center"> 
 
@@ -66,7 +66,7 @@ TypeScript               3 repos             ███████░░░░�
 
 </details>
 
-### Visitor Count
+### Visitor count
 
 <div align="center">
 
