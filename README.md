@@ -32,6 +32,8 @@
   
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&row=1&column=7&no-frame=true&no-bg=true" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
 
+![Steam Card](https://card.yuy1n.io/card/76561198798692343/gradient1,badge,group,bg-game-578080,games,badges,screenshots)
+
 </div>
 
 <!--  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simeis147&layout=compact&langs_count=10&hide_border=true&theme=transparent"/>](https://github.com/anuraghazra/github-readme-stats) -->
