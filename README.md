@@ -2,9 +2,9 @@
 
 <img align="right" src="https://simeis147.oss-cn-shenzhen.aliyuncs.com/readme/IMG_6570%2820230611-230627%29.JPG" height="205">
 
-- 🌱&ensp;*I’m currently learning Java, MySQL*
+- 🌱&ensp;*I’m currently learning Java, MySQL, Redis*
 
-- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：underway*
+- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：[dongcp.top](https://www.dongcp.top)*
 
 - ⚙️&ensp;*Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk) and [Apple](http://www.apple.com)*
 
