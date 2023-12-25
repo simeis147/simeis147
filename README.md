@@ -4,7 +4,7 @@
 
 - 🌱&ensp;*I’m currently learning Java, MySQL, Redis*
 
-- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：[dongcp.top](https://www.dongcp.top)*
+- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io) or [simeis147.gitee.io](https://simeis147.gitee.io/) &ensp; Life blog：[dongcp.top](https://dongcp.top)*
 
 - ⚙️&ensp;*Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk) and [Apple](http://www.apple.com)*
 
