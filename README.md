@@ -2,17 +2,17 @@
 
 <img align="right" src="https://simeis147.oss-cn-shenzhen.aliyuncs.com/readme/IMG_6570%2820230611-230627%29.JPG" height="205">
 
-- 🌱&ensp;*I’m currently learning Alluxio*
+- 🌱&ensp;I’m currently learning Alluxio
 
-- 🔭&ensp;*Life blog：[blog.dongcp.top](https://blog.dongcp.top)*
+- 🔭&ensp;Life blog：[blog.dongcp.top](https://blog.dongcp.top)
 
-- 💻&ensp;*Tech blog：[simeis147.github.io](https://simeis147.github.io)*
+- 💻&ensp;Tech blog：[simeis147.github.io](https://simeis147.github.io)
 
-- ⚙️&ensp;*Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)*
+- ⚙️&ensp;Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)
 
-- 🌊&ensp;*The goals for 2024 is half marathon 🏃 ✅, cycling 🚴 ✅, parachuting 🪂*
+- 🌊&ensp;The goals for 2024 is half marathon 🏃 ✅, cycling 🚴 ✅, parachuting 🪂
 
-- 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
+- 🌠&ensp;On the right is Van Gogh's《The Starry Night》
 
 ### Github summary
 
