@@ -10,7 +10,7 @@
 
 - ⚙️&ensp;*Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)*
 
-- 🌊&ensp;*The goals for 2024 is half marathon 🏃, cycling 🚴, parachuting 🪂*
+- 🌊&ensp;*The goals for 2024 is half marathon 🏃 ✅, cycling 🚴 ✅, parachuting 🪂*
 
 - 🌠&ensp;*On the right is Van Gogh's《The Starry Night》*
 
