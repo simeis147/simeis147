@@ -1,6 +1,6 @@
 ### About me
 
-<img align="right" src="https://simeis147.oss-cn-shenzhen.aliyuncs.com/readme/IMG_6570%2820230611-230627%29.JPG" height="205">
+<img align="right" src="./assets/star.jpg" height="205">
 
 - 🌱&ensp;I’m currently learning Alluxio
 
