@@ -2,7 +2,7 @@
 
 <img align="right" src="./assets/star.jpg" height="205">
 
-- 🌱&ensp;I’m currently learning Alluxio
+- 🌱&ensp;I’m currently learning ▇▇▇
 
 - 🔭&ensp;Life blog：[blog.dongcp.top](https://blog.dongcp.top)
 
@@ -10,7 +10,7 @@
 
 - ⚙️&ensp;Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)
 
-- 🌊&ensp;The goals for 2024 is half marathon 🏃 ✅, cycling 🚴 ✅, parachuting 🪂
+- 🌊&ensp;The goals for 2025 is ▇▇▇▇▇▇
 
 - 🌠&ensp;On the right is Van Gogh's《The Starry Night》
 
