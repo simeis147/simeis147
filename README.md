@@ -4,7 +4,7 @@
 
 - 🌱&ensp;I’m currently learning Java
 
-- 🔭&ensp;Life blog：[blog.dongcp.top](https://blog.dongcp.top)
+- 🔭&ensp;Life blog
 
 - 💻&ensp;Tech blog：[simeis147.github.io](https://simeis147.github.io)
 
