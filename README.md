@@ -32,7 +32,7 @@
   
 [<img src="https://github-profile-trophy.vercel.app/?username=simeis147&theme=nord&margin-w=25&row=1&column=7&no-frame=true&no-bg=true" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
 
-![Steam Card](https://card.yuy1n.io/card/76561198798692343/dark,bg-game,games,badges,screenshots)
+<!-- ![Steam Card](https://card.yuy1n.io/card/76561198798692343/dark,bg-game,games,badges,screenshots) -->
 
 </div>
 
