@@ -4,13 +4,13 @@
 
 - 🌱&ensp;I’m currently learning Java
 
-- 🔭&ensp;The year 2028 will mark a significant moment in my life.
+- 🔭&ensp;The year 2028 will mark a significant moment in my life
 
 - 💻&ensp;Tech blog：[simeis147.github.io](https://simeis147.github.io)
 
-- ⚙️&ensp;Core activity: aggressively fact-checking AIs while ignoring my own code errors.
+- ⚙️&ensp;Core activity: aggressively fact-checking AIs while ignoring my own code errors
 
-- 🌊&ensp;The goals for 2025 is marathon.
+- 🌊&ensp;The goals for 2025 is marathon
 
 - 🌠&ensp;On the right is Van Gogh's《The Starry Night》
 
