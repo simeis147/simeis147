@@ -8,7 +8,7 @@
 
 - 💻&ensp;Tech blog：[simeis147.github.io](https://simeis147.github.io)
 
-- ⚙️&ensp;Interested in digital products, recently obsessed with [keyboards](https://www.zfrontier.com/app/user/zae5QEwJmVroZk)
+- ⚙️&ensp;INTP core activity: aggressively fact-checking AIs while ignoring my own code errors.
 
 - 🌊&ensp;The goals for 2025 is marathon.
 
